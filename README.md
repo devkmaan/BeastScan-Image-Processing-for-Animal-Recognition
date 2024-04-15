@@ -89,4 +89,4 @@ CKS = Cohen Kappa Score. >50% is usually good.
 ## Productionization
 
 In this step, I built a Flask API endpoint. The API webpage takes a photo of an animal and outputs the name of the animal that is in the photo.
-# BeastScan-Image-Processing-for-Animal-Recognition
+
